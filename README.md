@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mariat189&theme=dracula)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mariat189&theme=onedark)
+
 
 
 <!--
