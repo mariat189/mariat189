@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 
+
+
+<img src="https://raw.githubusercontent.com/mariat189/mariat189/refs/heads/main/ibmhacktoberfest2024.svg" alt="IBM Hacktoberfest 2024" width="250" height="250">
 <!--
 **mariat189/mariat189** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
