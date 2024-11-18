@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariat189&layout=compact&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mariat189&theme=dracula)
 
 
 <!--
