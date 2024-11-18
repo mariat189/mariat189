@@ -1,6 +1,4 @@
 ## Hi there 👋
-![Trophies](https://github-profile-trophy.vercel.app/?username=mariat189&theme=onedark)
-
 
 
 <!--
