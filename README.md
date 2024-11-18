@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariat189&show_icons=true&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=<your-username>&theme=dracula)
 
 
 <!--
